@@ -2,3 +2,5 @@ pymysql
 flask
 flask_sqlalchemy
 flask_restplus
+Flask-Migrate
+Flask-Script
