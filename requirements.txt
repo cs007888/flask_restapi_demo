@@ -1,6 +1,6 @@
 pymysql
 flask
-flask_sqlalchemy
-flask_restplus
+Flask-Sqlalchemy
+Flask-Restplus
 Flask-Migrate
 Flask-Script
